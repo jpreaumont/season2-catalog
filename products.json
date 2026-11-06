@@ -1,0 +1,253 @@
+[
+ {
+  "slug": "prada-mules",
+  "brand": "Prada",
+  "name": "Black Heeled Mules",
+  "hero": "assets/prada-mules-hero-packshot-side.jpg",
+  "hover": "assets/prada-mules-hover-beauty-side-closeup.jpg",
+  "carousel": [
+   [
+    "assets/prada-mules-SHOES-002-side-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-45-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-front-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-back-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-beauty-flux-standing1.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-beauty-flux-closeup2.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-beauty-flux-closeup4.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-beauty-flux-closeside1.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-mules-SHOES-002-beauty-closeside-clip-5s.mp4",
+    "vid"
+   ]
+  ]
+ },
+ {
+  "slug": "prada-symbole-tote",
+  "brand": "Prada",
+  "name": "Symbole Tote",
+  "hero": "assets/prada-symbole-tote-hero-packshot-front.jpg",
+  "hover": "assets/prada-symbole-tote-hover-beauty-inhand.jpg",
+  "carousel": [
+   [
+    "assets/prada-symbole-tote-BAG-001-front-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-back-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-side1-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-side2-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-beauty-g1.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-beauty-g2.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-beauty-p3-crook.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-beauty-g1-clip-5s.mp4",
+    "vid"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-beauty-crook-clip-5s.mp4",
+    "vid"
+   ],
+   [
+    "assets/prada-symbole-tote-BAG-001-model-walk-5s.mp4",
+    "vid"
+   ]
+  ]
+ },
+ {
+  "slug": "chanel-blue-tweed-jacket",
+  "brand": "Chanel",
+  "name": "Blue Tweed Jacket",
+  "hero": "assets/chanel-blue-tweed-jacket-hero-beauty-crop.jpg",
+  "hover": "assets/chanel-blue-tweed-jacket-hover-beauty-front-closed.jpg",
+  "carousel": [
+   [
+    "assets/chanel-blue-tweed-jacket-RTW-CHANEL-BLUE-001-beauty-flux-crop2.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-blue-tweed-jacket-RTW-CHANEL-BLUE-001-beauty-flux-frontclosed1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-blue-tweed-jacket-RTW-CHANEL-BLUE-001-beauty-flux-frontopen1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-blue-tweed-jacket-RTW-CHANEL-BLUE-001-beauty-flux-side1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-blue-tweed-jacket-RTW-CHANEL-BLUE-001-beauty-flux-back1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-blue-tweed-jacket-RTW-CHANEL-BLUE-001-model-clip-5s-h264.mp4",
+    "vid"
+   ]
+  ]
+ },
+ {
+  "slug": "chanel-grey-sequin-coat",
+  "brand": "Chanel",
+  "name": "Grey Sequin Tweed Coat",
+  "hero": "assets/chanel-grey-sequin-coat-hero-beauty-crop.jpg",
+  "hover": "assets/chanel-grey-sequin-coat-hover-beauty-front-closed.jpg",
+  "carousel": [
+   [
+    "assets/chanel-grey-sequin-coat-RTW-CHANEL-GREY-001-beauty-flux-crop2.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-grey-sequin-coat-RTW-CHANEL-GREY-001-beauty-flux-frontclosed1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-grey-sequin-coat-RTW-CHANEL-GREY-001-beauty-flux-frontopen2.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-grey-sequin-coat-RTW-CHANEL-GREY-001-beauty-flux-side1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-grey-sequin-coat-RTW-CHANEL-GREY-001-beauty-flux-back1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-grey-sequin-coat-RTW-CHANEL-GREY-001-model-clip-5s-h264.mp4",
+    "vid"
+   ]
+  ]
+ },
+ {
+  "slug": "chanel-paint-tweed-jacket",
+  "brand": "Chanel",
+  "name": "Paint Tweed Jacket",
+  "hero": "assets/chanel-paint-tweed-jacket-hero-beauty-crop.jpg",
+  "hover": "assets/chanel-paint-tweed-jacket-hover-beauty-front-closed.jpg",
+  "carousel": [
+   [
+    "assets/chanel-paint-tweed-jacket-RTW-CHANEL-PAINT-001-beauty-flux-crop3.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-paint-tweed-jacket-RTW-CHANEL-PAINT-001-beauty-flux-frontclosed1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-paint-tweed-jacket-RTW-CHANEL-PAINT-001-beauty-flux-frontopen1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-paint-tweed-jacket-RTW-CHANEL-PAINT-001-beauty-flux-side1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-paint-tweed-jacket-RTW-CHANEL-PAINT-001-beauty-flux-back1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-paint-tweed-jacket-RTW-CHANEL-PAINT-001-model-clip-5s-h264.mp4",
+    "vid"
+   ]
+  ]
+ },
+ {
+  "slug": "chanel-black-tweed-jacket",
+  "brand": "Chanel",
+  "name": "Black Sparkle Tweed Jacket",
+  "hero": "assets/chanel-black-tweed-jacket-hero-beauty-crop.jpg",
+  "hover": "assets/chanel-black-tweed-jacket-hover-beauty-front-closed.jpg",
+  "carousel": [
+   [
+    "assets/chanel-black-tweed-jacket-RTW-CHANEL-BLACK-001-beauty-flux-crop1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-black-tweed-jacket-RTW-CHANEL-BLACK-001-beauty-flux-frontclosed1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-black-tweed-jacket-RTW-CHANEL-BLACK-001-beauty-flux-frontopen1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-black-tweed-jacket-RTW-CHANEL-BLACK-001-beauty-flux-side1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-black-tweed-jacket-RTW-CHANEL-BLACK-001-beauty-flux-back1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-black-tweed-jacket-RTW-CHANEL-BLACK-001-model-clip-5s-h264.mp4",
+    "vid"
+   ]
+  ]
+ },
+ {
+  "slug": "saint-laurent-black-vest",
+  "brand": "Saint Laurent",
+  "name": "Black Vest",
+  "hero": "assets/saint-laurent-black-vest-hero-beauty-crop.jpg",
+  "hover": "assets/saint-laurent-black-vest-hover-beauty-front-closed.jpg",
+  "carousel": [
+   [
+    "assets/saint-laurent-black-vest-RTW-Vest-001-crop-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/saint-laurent-black-vest-RTW-Vest-001-frontopen-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/saint-laurent-black-vest-RTW-Vest-001-side-FINAL.jpg",
+    "img"
+   ],
+   [
+    "assets/saint-laurent-black-vest-RTW-Vest-001-clip-5s.mp4",
+    "vid"
+   ]
+  ]
+ }
+]
