@@ -40,6 +40,7 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-
 <div class="stage" id="stage"><img src="assets/saint-laurent-black-vest-RTW-Vest-001-crop-FINAL.jpg.jpg" class="media on" data-i="0">
 <img src="assets/saint-laurent-black-vest-RTW-Vest-001-frontopen-FINAL.jpg.jpg" class="media" data-i="1">
 <img src="assets/saint-laurent-black-vest-RTW-Vest-001-side-FINAL.jpg.jpg" class="media" data-i="2">
+<video src="assets/saint-laurent-black-vest-RTW-Vest-001-clip-5s-h264.mp4.mp4" class="media" data-i="3" controls muted loop playsinline></video>
 
 <button class="prev" onclick="step(-1)">‹</button><button class="next" onclick="step(1)">›</button>
 </div>
@@ -47,10 +48,11 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-
 <div class="thumbs"><img class="th on" src="assets/saint-laurent-black-vest-RTW-Vest-001-crop-FINAL.jpg.jpg" data-i="0" onclick="go(0)">
 <img class="th" src="assets/saint-laurent-black-vest-RTW-Vest-001-frontopen-FINAL.jpg.jpg" data-i="1" onclick="go(1)">
 <img class="th" src="assets/saint-laurent-black-vest-RTW-Vest-001-side-FINAL.jpg.jpg" data-i="2" onclick="go(2)">
+<video class="th" src="assets/saint-laurent-black-vest-RTW-Vest-001-clip-5s-h264.mp4.mp4#t=1" data-i="3" onclick="go(3)" muted></video>
 </div>
 </div>
 <script>
-const media = [{"type": "img", "src": "saint-laurent-black-vest-RTW-Vest-001-crop-FINAL.jpg"}, {"type": "img", "src": "saint-laurent-black-vest-RTW-Vest-001-frontopen-FINAL.jpg"}, {"type": "img", "src": "saint-laurent-black-vest-RTW-Vest-001-side-FINAL.jpg"}];
+const media = [{"type": "img", "src": "saint-laurent-black-vest-RTW-Vest-001-crop-FINAL.jpg"}, {"type": "img", "src": "saint-laurent-black-vest-RTW-Vest-001-frontopen-FINAL.jpg"}, {"type": "img", "src": "saint-laurent-black-vest-RTW-Vest-001-side-FINAL.jpg"}, {"type": "vid", "src": "saint-laurent-black-vest-RTW-Vest-001-clip-5s-h264.mp4"}];
 let idx = 0;
 function show() {
   document.querySelectorAll('.media').forEach((el, i) => {
