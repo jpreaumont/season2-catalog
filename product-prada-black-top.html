@@ -37,18 +37,24 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-
 <div class="phead"><a href="index.html">← Back to New Arrivals</a>
 <h1>Black Top</h1><div class="brand">Prada</div></div>
 <div class="carousel">
-<div class="stage" id="stage"><img src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-full1.jpg" class="media on" data-i="0">
-<img src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-mid1.jpg" class="media" data-i="1">
+<div class="stage" id="stage"><img src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-crop-FINAL.jpg" class="media on" data-i="0">
+<img src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-front.jpg" class="media" data-i="1">
+<img src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-side.jpg" class="media" data-i="2">
+<img src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-back.jpg" class="media" data-i="3">
+<video src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-model-clip-5s-h264.mp4" class="media" data-i="4" controls muted loop playsinline></video>
 
 <button class="prev" onclick="step(-1)">‹</button><button class="next" onclick="step(1)">›</button>
 </div>
 <div class="count" id="count"></div>
-<div class="thumbs"><img class="th on" src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-full1.jpg" data-i="0" onclick="go(0)">
-<img class="th" src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-mid1.jpg" data-i="1" onclick="go(1)">
+<div class="thumbs"><img class="th on" src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-crop-FINAL.jpg" data-i="0" onclick="go(0)">
+<img class="th" src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-front.jpg" data-i="1" onclick="go(1)">
+<img class="th" src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-side.jpg" data-i="2" onclick="go(2)">
+<img class="th" src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-back.jpg" data-i="3" onclick="go(3)">
+<video class="th" src="assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-model-clip-5s-h264.mp4#t=1" data-i="4" onclick="go(4)" muted></video>
 </div>
 </div>
 <script>
-const media = [{"type": "img", "src": "prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-full1"}, {"type": "img", "src": "prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-mid1"}];
+const media = [{"type": "img", "src": "prada-black-top-RTW-PRADA-TOP-BLACK-001-crop-FINAL"}, {"type": "img", "src": "prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-front"}, {"type": "img", "src": "prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-side"}, {"type": "img", "src": "prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-back"}, {"type": "vid", "src": "prada-black-top-RTW-PRADA-TOP-BLACK-001-model-clip-5s-h264"}];
 let idx = 0;
 function show() {
   document.querySelectorAll('.media').forEach((el, i) => {

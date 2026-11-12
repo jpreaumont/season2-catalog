@@ -258,16 +258,32 @@
   "slug": "chanel-cream-tweed-jacket",
   "brand": "Chanel",
   "name": "Cream Tweed Jacket",
-  "hero": "assets/chanel-cream-tweed-jacket-hero-beauty-full.jpg",
-  "hover": "assets/chanel-cream-tweed-jacket-hover-beauty-mid.jpg",
+  "hero": "assets/chanel-cream-tweed-jacket-hero-beauty-crop.jpg",
+  "hover": "assets/chanel-cream-tweed-jacket-hover-beauty-front.jpg",
   "carousel": [
    [
-    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-full2r2.jpg",
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-crop-FINAL.jpg",
     "img"
    ],
    [
-    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-mid-from-full2r2.jpg",
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-frontclosed.jpg",
     "img"
+   ],
+   [
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-frontopen.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-side.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-back.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-model-clip-5s-h264.mp4",
+    "vid"
    ]
   ]
  },
@@ -275,16 +291,32 @@
   "slug": "chanel-multicolor-tweed-jacket",
   "brand": "Chanel",
   "name": "Multicolor Tweed Jacket",
-  "hero": "assets/chanel-multicolor-tweed-jacket-hero-beauty-full.jpg",
-  "hover": "assets/chanel-multicolor-tweed-jacket-hover-beauty-mid.jpg",
+  "hero": "assets/chanel-multicolor-tweed-jacket-hero-beauty-crop.jpg",
+  "hover": "assets/chanel-multicolor-tweed-jacket-hover-beauty-front.jpg",
   "carousel": [
    [
-    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-full1r2.jpg",
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-crop-FINAL.jpg",
     "img"
    ],
    [
-    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-mid1r2.jpg",
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-frontclosed.jpg",
     "img"
+   ],
+   [
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-frontopen.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-side.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-back.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-model-clip-5s-h264.mp4",
+    "vid"
    ]
   ]
  },
@@ -292,16 +324,32 @@
   "slug": "prada-quilted-jacket",
   "brand": "Prada",
   "name": "Red & White Quilted Jacket",
-  "hero": "assets/prada-quilted-jacket-hero-beauty-full.jpg",
-  "hover": "assets/prada-quilted-jacket-hover-beauty-mid.jpg",
+  "hero": "assets/prada-quilted-jacket-hero-beauty-crop.jpg",
+  "hover": "assets/prada-quilted-jacket-hover-beauty-front.jpg",
   "carousel": [
    [
-    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-full1r3.jpg",
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-crop-FINAL.jpg",
     "img"
    ],
    [
-    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-mid1r2.jpg",
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-frontclosed.jpg",
     "img"
+   ],
+   [
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-frontopen.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-side.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-back.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-model-clip-5s-h264.mp4",
+    "vid"
    ]
   ]
  },
@@ -309,16 +357,28 @@
   "slug": "prada-black-top",
   "brand": "Prada",
   "name": "Black Top",
-  "hero": "assets/prada-black-top-hero-beauty-full.jpg",
-  "hover": "assets/prada-black-top-hover-beauty-mid.jpg",
+  "hero": "assets/prada-black-top-hero-beauty-crop.jpg",
+  "hover": "assets/prada-black-top-hover-beauty-front.jpg",
   "carousel": [
    [
-    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-full1.jpg",
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-crop-FINAL.jpg",
     "img"
    ],
    [
-    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-mid1.jpg",
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-front.jpg",
     "img"
+   ],
+   [
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-side.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-back.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-model-clip-5s-h264.mp4",
+    "vid"
    ]
   ]
  },
@@ -326,16 +386,32 @@
   "slug": "prada-blue-shirt",
   "brand": "Prada",
   "name": "Light-Blue Shirt",
-  "hero": "assets/prada-blue-shirt-hero-beauty-full.jpg",
-  "hover": "assets/prada-blue-shirt-hover-beauty-mid.jpg",
+  "hero": "assets/prada-blue-shirt-hero-beauty-crop.jpg",
+  "hover": "assets/prada-blue-shirt-hover-beauty-front.jpg",
   "carousel": [
    [
-    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-full1r2.jpg",
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-crop-FINAL.jpg",
     "img"
    ],
    [
-    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-mid1r2.jpg",
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-frontclosed.jpg",
     "img"
+   ],
+   [
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-frontopen.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-side.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-back.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-model-clip-5s-h264.mp4",
+    "vid"
    ]
   ]
  },
@@ -343,16 +419,32 @@
   "slug": "prada-white-shirt",
   "brand": "Prada",
   "name": "White Shirt",
-  "hero": "assets/prada-white-shirt-hero-beauty-full.jpg",
-  "hover": "assets/prada-white-shirt-hover-beauty-mid.jpg",
+  "hero": "assets/prada-white-shirt-hero-beauty-crop.jpg",
+  "hover": "assets/prada-white-shirt-hover-beauty-front.jpg",
   "carousel": [
    [
-    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-full2r2.jpg",
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-crop-FINAL.jpg",
     "img"
    ],
    [
-    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-mid2r2.jpg",
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-frontclosed.jpg",
     "img"
+   ],
+   [
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-frontopen.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-side.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-back.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-model-clip-5s-h264.mp4",
+    "vid"
    ]
   ]
  },
