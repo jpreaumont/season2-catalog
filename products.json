@@ -253,5 +253,173 @@
     "vid"
    ]
   ]
+ },
+ {
+  "slug": "chanel-cream-tweed-jacket",
+  "brand": "Chanel",
+  "name": "Cream Tweed Jacket",
+  "hero": "assets/chanel-cream-tweed-jacket-hero-beauty-full.jpg",
+  "hover": "assets/chanel-cream-tweed-jacket-hover-beauty-mid.jpg",
+  "carousel": [
+   [
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-full2r2.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-beauty-mid-from-full2r2.jpg",
+    "img"
+   ]
+  ]
+ },
+ {
+  "slug": "chanel-multicolor-tweed-jacket",
+  "brand": "Chanel",
+  "name": "Multicolor Tweed Jacket",
+  "hero": "assets/chanel-multicolor-tweed-jacket-hero-beauty-full.jpg",
+  "hover": "assets/chanel-multicolor-tweed-jacket-hover-beauty-mid.jpg",
+  "carousel": [
+   [
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-full1r2.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-beauty-mid1r2.jpg",
+    "img"
+   ]
+  ]
+ },
+ {
+  "slug": "prada-quilted-jacket",
+  "brand": "Prada",
+  "name": "Red & White Quilted Jacket",
+  "hero": "assets/prada-quilted-jacket-hero-beauty-full.jpg",
+  "hover": "assets/prada-quilted-jacket-hover-beauty-mid.jpg",
+  "carousel": [
+   [
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-full1r3.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-quilted-jacket-RTW-PRADA-RED-001-beauty-mid1r2.jpg",
+    "img"
+   ]
+  ]
+ },
+ {
+  "slug": "prada-black-top",
+  "brand": "Prada",
+  "name": "Black Top",
+  "hero": "assets/prada-black-top-hero-beauty-full.jpg",
+  "hover": "assets/prada-black-top-hover-beauty-mid.jpg",
+  "carousel": [
+   [
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-full1.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-mid1.jpg",
+    "img"
+   ]
+  ]
+ },
+ {
+  "slug": "prada-blue-shirt",
+  "brand": "Prada",
+  "name": "Light-Blue Shirt",
+  "hero": "assets/prada-blue-shirt-hero-beauty-full.jpg",
+  "hover": "assets/prada-blue-shirt-hover-beauty-mid.jpg",
+  "carousel": [
+   [
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-full1r2.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-beauty-mid1r2.jpg",
+    "img"
+   ]
+  ]
+ },
+ {
+  "slug": "prada-white-shirt",
+  "brand": "Prada",
+  "name": "White Shirt",
+  "hero": "assets/prada-white-shirt-hero-beauty-full.jpg",
+  "hover": "assets/prada-white-shirt-hover-beauty-mid.jpg",
+  "carousel": [
+   [
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-full2r2.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-beauty-mid2r2.jpg",
+    "img"
+   ]
+  ]
+ },
+ {
+  "slug": "chanel-heart-pendant",
+  "brand": "Chanel",
+  "name": "Heart Pendant",
+  "hero": "assets/chanel-heart-pendant-hero-white-front.jpg",
+  "hover": "assets/chanel-heart-pendant-hover-white-side.jpg",
+  "carousel": [
+   [
+    "assets/chanel-heart-pendant-ACC-CHANEL-HEART-001-front-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-heart-pendant-ACC-CHANEL-HEART-001-front-alt-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-heart-pendant-ACC-CHANEL-HEART-001-back-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-heart-pendant-ACC-CHANEL-HEART-001-side34-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-heart-pendant-ACC-CHANEL-HEART-001-beauty-worn1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-heart-pendant-ACC-CHANEL-HEART-001-beauty-hand1.jpg",
+    "img"
+   ]
+  ]
+ },
+ {
+  "slug": "chanel-airpods-holder",
+  "brand": "Chanel",
+  "name": "AirPods Case Holder",
+  "hero": "assets/chanel-airpods-holder-hero-white-front-open.jpg",
+  "hover": "assets/chanel-airpods-holder-hover-white-back.jpg",
+  "carousel": [
+   [
+    "assets/chanel-airpods-holder-ACC-CHANEL-AIRPOD-001-front-open-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-airpods-holder-ACC-CHANEL-AIRPOD-001-back-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-airpods-holder-ACC-CHANEL-AIRPOD-001-top-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-airpods-holder-ACC-CHANEL-AIRPOD-001-macro-white.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-airpods-holder-ACC-CHANEL-AIRPOD-001-beauty-worn1.jpg",
+    "img"
+   ],
+   [
+    "assets/chanel-airpods-holder-ACC-CHANEL-AIRPOD-001-beauty-hand1.jpg",
+    "img"
+   ]
+  ]
  }
 ]
