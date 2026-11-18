@@ -753,7 +753,7 @@
   "brand": "Prada",
   "name": "Black Loafers",
   "hero": "assets/prada-loafers-hero-white-side.jpg",
-  "hover": "assets/prada-loafers-hover-white-45.jpg",
+  "hover": "assets/prada-loafers-hover-beauty-closeside.jpg",
   "carousel": [
    [
     "assets/prada-loafers-SHOES-PRADA-LOAFERS-001-side-white.jpg",
@@ -774,6 +774,22 @@
    [
     "assets/prada-loafers-SHOES-PRADA-LOAFERS-001-top-white.jpg",
     "img"
+   ],
+   [
+    "assets/prada-loafers-SHOES-PRADA-LOAFERS-001-beauty-standing1.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-loafers-SHOES-PRADA-LOAFERS-001-beauty-closeside1.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-loafers-SHOES-PRADA-LOAFERS-001-beauty-closeup1.jpg",
+    "img"
+   ],
+   [
+    "assets/prada-loafers-SHOES-PRADA-LOAFERS-001-beauty-closeup2.jpg",
+    "img"
    ]
   ]
  },
@@ -782,7 +798,7 @@
   "brand": "Saint Laurent",
   "name": "Black Heels",
   "hero": "assets/saint-laurent-heels-hero-white-side.jpg",
-  "hover": "assets/saint-laurent-heels-hover-white-45.jpg",
+  "hover": "assets/saint-laurent-heels-hover-beauty-closeside.jpg",
   "carousel": [
    [
     "assets/saint-laurent-heels-SHOES-SL-HEELS-001-side-white.jpg",
@@ -802,6 +818,22 @@
    ],
    [
     "assets/saint-laurent-heels-SHOES-SL-HEELS-001-top-white.jpg",
+    "img"
+   ],
+   [
+    "assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-standing1.jpg",
+    "img"
+   ],
+   [
+    "assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeside1.jpg",
+    "img"
+   ],
+   [
+    "assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup1.jpg",
+    "img"
+   ],
+   [
+    "assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup2.jpg",
     "img"
    ]
   ]

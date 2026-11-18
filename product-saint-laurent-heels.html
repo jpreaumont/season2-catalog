@@ -42,6 +42,10 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-
 <img src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-45-white.3447989b.jpg" class="media" data-i="2">
 <img src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-back-white.72d92fff.jpg" class="media" data-i="3">
 <img src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-top-white.d08f9d77.jpg" class="media" data-i="4">
+<img src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-standing1.5120b15e.jpg" class="media" data-i="5">
+<img src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeside1.11024fb5.jpg" class="media" data-i="6">
+<img src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup1.b7f73678.jpg" class="media" data-i="7">
+<img src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup2.21475f1a.jpg" class="media" data-i="8">
 
 <button class="prev" onclick="step(-1)">‹</button><button class="next" onclick="step(1)">›</button>
 </div>
@@ -51,10 +55,14 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-
 <img class="th" src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-45-white.3447989b.jpg" data-i="2" onclick="go(2)">
 <img class="th" src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-back-white.72d92fff.jpg" data-i="3" onclick="go(3)">
 <img class="th" src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-top-white.d08f9d77.jpg" data-i="4" onclick="go(4)">
+<img class="th" src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-standing1.5120b15e.jpg" data-i="5" onclick="go(5)">
+<img class="th" src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeside1.11024fb5.jpg" data-i="6" onclick="go(6)">
+<img class="th" src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup1.b7f73678.jpg" data-i="7" onclick="go(7)">
+<img class="th" src="assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup2.21475f1a.jpg" data-i="8" onclick="go(8)">
 </div>
 </div>
 <script>
-const media = [{"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-side-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-front-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-45-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-back-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-top-white"}];
+const media = [{"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-side-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-front-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-45-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-back-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-top-white"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-beauty-standing1"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeside1"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup1"}, {"type": "img", "src": "saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup2"}];
 let idx = 0;
 function show() {
   document.querySelectorAll('.media').forEach((el, i) => {
