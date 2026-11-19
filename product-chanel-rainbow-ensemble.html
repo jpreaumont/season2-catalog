@@ -4,9 +4,17 @@
 <title>Rainbow Tweed Ensemble — SEASON 2</title><style>
 * { margin:0; padding:0; box-sizing:border-box; }
 body { font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; background:#fff; color:#111; }
-header { padding:28px 24px 18px; text-align:center; }
-header h1 { font-size:20px; font-weight:600; letter-spacing:4px; }
-header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-transform:uppercase; }
+header { padding:26px 24px 14px; text-align:center; }
+header a { text-decoration:none; }
+header img.logo { height:36px; width:auto; }
+header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:10px; text-transform:uppercase; }
+.nav { display:flex; justify-content:center; gap:22px; padding:6px 16px 4px; flex-wrap:wrap; }
+.nav button { background:none; border:none; font-size:11px; letter-spacing:2px; text-transform:uppercase;
+  color:#999; cursor:pointer; padding:6px 2px 4px; border-bottom:1px solid transparent; }
+.nav button.on { color:#111; border-bottom-color:#111; }
+.sortbar { text-align:center; padding:8px 16px 18px; }
+.sortbar select { border:none; font-size:11px; letter-spacing:1px; color:#666; background:#fff;
+  text-transform:uppercase; cursor:pointer; border-bottom:1px solid #ddd; padding:4px 2px; }
 .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:2px; padding:0 2px; }
 @media (max-width:800px){ .grid { grid-template-columns:repeat(2,1fr); } }
 .card { display:block; text-decoration:none; color:inherit; position:relative; }
@@ -15,12 +23,16 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-
 .card .ph img.hov { opacity:0; }
 .card:hover .ph img.hov { opacity:1; }
 .meta { text-align:center; padding:12px 6px 26px; }
-.meta .brand { font-size:11px; letter-spacing:2px; text-transform:uppercase; color:#666; }
-.meta .name { font-size:13px; margin-top:3px; }
+.meta .brand { font-size:14px; letter-spacing:2px; text-transform:uppercase; color:#111; font-weight:600; }
+.meta .name { font-size:13px; margin-top:4px; color:#555; }
+.meta .price { font-size:13px; margin-top:7px; color:#111; }
+.meta .price.tbd { font-size:11px; color:#999; letter-spacing:1px; }
 .phead { text-align:center; padding:22px 20px 10px; }
 .phead a { color:#888; font-size:12px; text-decoration:none; letter-spacing:1px; }
-.phead h1 { font-size:18px; font-weight:600; letter-spacing:2px; margin-top:8px; }
-.phead .brand { font-size:11px; letter-spacing:2px; text-transform:uppercase; color:#666; margin-top:4px; }
+.phead h1 { font-size:20px; font-weight:600; letter-spacing:2px; margin-top:8px; }
+.phead .brand { font-size:14px; letter-spacing:3px; text-transform:uppercase; color:#111; font-weight:600; margin-top:5px; }
+.phead .price { font-size:14px; margin-top:10px; }
+.phead .price.tbd { font-size:12px; color:#999; letter-spacing:1px; }
 .carousel { max-width:680px; margin:14px auto 40px; padding:0 16px; }
 .stage { position:relative; background:#f5f5f4; aspect-ratio:4/5; }
 .stage img, .stage video { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:none; }
@@ -34,8 +46,10 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:6px; text-
 .count { text-align:center; font-size:11px; color:#888; margin-top:8px; letter-spacing:1px; }
 .foot { text-align:center; font-size:10px; color:#bbb; padding:18px 0 30px; letter-spacing:1px; }
 </style></head><body>
-<div class="phead"><a href="index.html">← Back to New Arrivals</a>
-<h1>Rainbow Tweed Ensemble</h1><div class="brand">Chanel</div></div>
+<header><a href="index.html"><img class="logo" src="assets/logo.6560b8ae.png" alt="SEASON 2 再季"></a></header>
+<div class="phead"><a href="index.html">← Back to Drop Preview</a>
+<h1>Rainbow Tweed Ensemble</h1><div class="brand">Chanel</div>
+<div class="price">¥11,000 – ¥13,600</div></div>
 <div class="carousel">
 <div class="stage" id="stage"><img src="assets/chanel-rainbow-ensemble-RTW-CHANEL-RAINBOW-ENS-001-crop-FINAL.b1f499a8.jpg" class="media on" data-i="0">
 <img src="assets/chanel-rainbow-ensemble-RTW-CHANEL-RAINBOW-ENS-001-beauty-full2r2.f95469eb.jpg" class="media" data-i="1">

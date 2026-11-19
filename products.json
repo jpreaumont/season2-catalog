@@ -42,7 +42,10 @@
     "assets/prada-mules-SHOES-002-beauty-closeside-clip-5s.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Shoes",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "prada-symbole-tote",
@@ -91,7 +94,10 @@
     "assets/prada-symbole-tote-BAG-001-model-walk-5s.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Bags",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "chanel-blue-tweed-jacket",
@@ -124,7 +130,10 @@
     "assets/chanel-blue-tweed-jacket-RTW-CHANEL-BLUE-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "chanel-grey-sequin-coat",
@@ -157,7 +166,10 @@
     "assets/chanel-grey-sequin-coat-RTW-CHANEL-GREY-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": "\u00a521,200 \u2013 \u00a522,900",
+  "price_lo": 21200.0
  },
  {
   "slug": "chanel-paint-tweed-jacket",
@@ -190,7 +202,10 @@
     "assets/chanel-paint-tweed-jacket-RTW-CHANEL-PAINT-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": "\u00a59,300 \u2013 \u00a511,000",
+  "price_lo": 9300.0
  },
  {
   "slug": "chanel-black-tweed-jacket",
@@ -223,7 +238,10 @@
     "assets/chanel-black-tweed-jacket-RTW-CHANEL-BLACK-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": "\u00a512,700 \u2013 \u00a514,400",
+  "price_lo": 12700.0
  },
  {
   "slug": "saint-laurent-black-vest",
@@ -252,7 +270,10 @@
     "assets/saint-laurent-black-vest-RTW-Vest-001-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "chanel-cream-tweed-jacket",
@@ -285,7 +306,10 @@
     "assets/chanel-cream-tweed-jacket-RTW-CHANEL-CREAM-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "chanel-multicolor-tweed-jacket",
@@ -318,7 +342,10 @@
     "assets/chanel-multicolor-tweed-jacket-RTW-CHANEL-MULTICOLOR-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": "\u00a512,700 \u2013 \u00a514,400",
+  "price_lo": 12700.0
  },
  {
   "slug": "prada-quilted-jacket",
@@ -351,7 +378,10 @@
     "assets/prada-quilted-jacket-RTW-PRADA-RED-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "prada-black-top",
@@ -365,22 +395,25 @@
     "img"
    ],
    [
-    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-front.jpg",
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-front1.jpg",
     "img"
    ],
    [
-    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-side.jpg",
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-side1.jpg",
     "img"
    ],
    [
-    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-back.jpg",
+    "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-beauty-back1.jpg",
     "img"
    ],
    [
     "assets/prada-black-top-RTW-PRADA-TOP-BLACK-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "prada-blue-shirt",
@@ -413,7 +446,10 @@
     "assets/prada-blue-shirt-RTW-PRADA-SHIRT-BLUE-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "prada-white-shirt",
@@ -446,7 +482,10 @@
     "assets/prada-white-shirt-RTW-PRADA-SHIRT-WHITE-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "chanel-heart-pendant",
@@ -479,7 +518,10 @@
     "assets/chanel-heart-pendant-ACC-CHANEL-HEART-001-beauty-hand1.jpg",
     "img"
    ]
-  ]
+  ],
+  "cat": "Accessories",
+  "price": "\u00a56,700 \u2013 \u00a58,400",
+  "price_lo": 6700.0
  },
  {
   "slug": "chanel-airpods-holder",
@@ -512,7 +554,10 @@
     "assets/chanel-airpods-holder-ACC-CHANEL-AIRPOD-001-beauty-hand1.jpg",
     "img"
    ]
-  ]
+  ],
+  "cat": "Accessories",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "prada-t-shirt",
@@ -549,7 +594,10 @@
     "assets/prada-t-shirt-RTW-PRADA-TSHIRT-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "chanel-cream-skirt",
@@ -586,7 +634,10 @@
     "assets/chanel-cream-skirt-RTW-CHANEL-CREAMSKIRT-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": "\u00a52,000 \u2013 \u00a52,500",
+  "price_lo": 2000.0
  },
  {
   "slug": "chanel-black-dress",
@@ -623,7 +674,10 @@
     "assets/chanel-black-dress-RTW-CHANEL-BLACKDRESS-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": "\u00a53,400 \u2013 \u00a54,300",
+  "price_lo": 3400.0
  },
  {
   "slug": "chanel-rainbow-ensemble",
@@ -660,7 +714,10 @@
     "assets/chanel-rainbow-ensemble-RTW-CHANEL-RAINBOW-ENS-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": "\u00a511,000 \u2013 \u00a513,600",
+  "price_lo": 11000.0
  },
  {
   "slug": "saint-laurent-blue-shirt",
@@ -705,7 +762,10 @@
     "assets/saint-laurent-blue-shirt-RTW-SL-BLUESHIRT-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Ready-to-Wear",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "saint-laurent-rain-coat",
@@ -746,7 +806,10 @@
     "assets/saint-laurent-rain-coat-RTW-SL-RAINCOAT-001-model-clip-5s-h264.mp4",
     "vid"
    ]
-  ]
+  ],
+  "cat": "Men",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "prada-loafers",
@@ -791,7 +854,10 @@
     "assets/prada-loafers-SHOES-PRADA-LOAFERS-001-beauty-closeup2.jpg",
     "img"
    ]
-  ]
+  ],
+  "cat": "Shoes",
+  "price": null,
+  "price_lo": Infinity
  },
  {
   "slug": "saint-laurent-heels",
@@ -836,6 +902,9 @@
     "assets/saint-laurent-heels-SHOES-SL-HEELS-001-beauty-closeup2.jpg",
     "img"
    ]
-  ]
+  ],
+  "cat": "Shoes",
+  "price": null,
+  "price_lo": Infinity
  }
 ]
