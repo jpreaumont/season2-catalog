@@ -154,12 +154,12 @@ const grid = document.getElementById('grid');
 let cat = 'All', sort = 'featured';
 function apply() {
   let items = [...grid.children].map(el => ({el, cat: el.dataset.cat, lo: +el.dataset.lo, name: el.dataset.name, idx: +el.dataset.idx}));
-  if (cat !== 'All') items = items.filter(x => x.cat === cat);
-  if (sort === 'plo') items.sort((a,b) => a.lo - b.lo || a.idx - b.idx);
-  if (sort === 'phi') items.sort((a,b) => b.lo - a.lo || a.idx - b.idx);
-  if (sort === 'name') items.sort((a,b) => a.name.localeCompare(b.name));
-  items.forEach(x => grid.appendChild(x.el));
-  grid.style.display = items.length ? '' : 'none';
+  items.forEach(x => { x.el.style.display = (cat === 'All' || x.cat === cat) ? '' : 'none'; });
+  let shown = items.filter(x => cat === 'All' || x.cat === cat);
+  if (sort === 'plo') shown.sort((a,b) => a.lo - b.lo || a.idx - b.idx);
+  if (sort === 'phi') shown.sort((a,b) => b.lo - a.lo || a.idx - b.idx);
+  if (sort === 'name') shown.sort((a,b) => a.name.localeCompare(b.name));
+  shown.forEach(x => grid.appendChild(x.el));
 }
 document.querySelectorAll('.nav button').forEach(b => b.onclick = () => {
   document.querySelectorAll('.nav button').forEach(x => x.classList.remove('on'));
