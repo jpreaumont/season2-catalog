@@ -12,9 +12,6 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:10px; text
 .nav button { background:none; border:none; font-size:11px; letter-spacing:2px; text-transform:uppercase;
   color:#999; cursor:pointer; padding:6px 2px 4px; border-bottom:1px solid transparent; }
 .nav button.on { color:#111; border-bottom-color:#111; }
-.sortbar { text-align:center; padding:8px 16px 18px; }
-.sortbar select { border:none; font-size:11px; letter-spacing:1px; color:#666; background:#fff;
-  text-transform:uppercase; cursor:pointer; border-bottom:1px solid #ddd; padding:4px 2px; }
 .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:2px; padding:0 2px; }
 @media (max-width:800px){ .grid { grid-template-columns:repeat(2,1fr); } }
 .card { display:block; text-decoration:none; color:inherit; position:relative; }
@@ -48,12 +45,6 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:10px; text
 </style></head><body>
 <header><a href="index.html"><img class="logo" src="assets/logo.6560b8ae.png" alt="SEASON 2 再季"></a><p>Drop Preview</p></header>
 <div class="nav"><button data-cat="All" class="on">All</button><button data-cat="Ready-to-Wear">Ready-to-Wear</button><button data-cat="Bags">Bags</button><button data-cat="Shoes">Shoes</button><button data-cat="Accessories">Accessories</button><button data-cat="Men">Men</button></div>
-<div class="sortbar"><select id="sort">
-<option value="featured">Featured</option>
-<option value="plo">Price · low to high</option>
-<option value="phi">Price · high to low</option>
-<option value="name">Name · A–Z</option>
-</select></div>
 <div class="grid" id="grid">
 <a class="card" data-cat="Shoes" data-lo="inf" data-name="black heeled mules" data-idx="0" href="product-prada-mules.html">
 <div class="ph"><img src="assets/prada-mules-hero-packshot-side.19873314.jpg" alt=""><img class="hov" src="assets/prada-mules-hover-beauty-side-closeup.6cd089d5.jpg" alt=""></div>
@@ -151,20 +142,13 @@ header p { font-size:11px; color:#888; letter-spacing:2px; margin-top:10px; text
 <div class="foot">SEASON 2 — curated pieces · photos shown are produced with AI-assisted pipelines</div>
 <script>
 const grid = document.getElementById('grid');
-let cat = 'All', sort = 'featured';
+let cat = 'All';
 function apply() {
-  let items = [...grid.children].map(el => ({el, cat: el.dataset.cat, lo: +el.dataset.lo, name: el.dataset.name, idx: +el.dataset.idx}));
-  items.forEach(x => { x.el.style.display = (cat === 'All' || x.cat === cat) ? '' : 'none'; });
-  let shown = items.filter(x => cat === 'All' || x.cat === cat);
-  if (sort === 'plo') shown.sort((a,b) => a.lo - b.lo || a.idx - b.idx);
-  if (sort === 'phi') shown.sort((a,b) => b.lo - a.lo || a.idx - b.idx);
-  if (sort === 'name') shown.sort((a,b) => a.name.localeCompare(b.name));
-  shown.forEach(x => grid.appendChild(x.el));
+  [...grid.children].forEach(el => { el.style.display = (cat === 'All' || el.dataset.cat === cat) ? '' : 'none'; });
 }
 document.querySelectorAll('.nav button').forEach(b => b.onclick = () => {
   document.querySelectorAll('.nav button').forEach(x => x.classList.remove('on'));
   b.classList.add('on'); cat = b.dataset.cat; apply();
 });
-document.getElementById('sort').onchange = e => { sort = e.target.value; apply(); };
 </script>
 </body></html>
